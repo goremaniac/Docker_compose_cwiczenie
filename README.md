@@ -6,5 +6,5 @@ Cwiczenie z Docker Compose - prosta api+www
 
 
 
-docker compose -d 
+docker-compose up -d 
 //odpala w tle caly syf...
